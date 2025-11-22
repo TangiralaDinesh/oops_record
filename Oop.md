@@ -1,6 +1,6 @@
 ---  
   
-# 🧩 **OOPS LAB RECORD**  
+# **OOPS **  
   
 ---  
   
